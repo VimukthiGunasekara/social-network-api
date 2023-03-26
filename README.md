@@ -17,7 +17,7 @@ Using this API, you can create a social network that feeds data from MongoDB to 
 * [Submission](#User-Stor)
 * [User Story](#User-Stor)
 * [Acceptance Criteria](#Acceptance-Criteria)
-* [Mock-Up](#Mock-Up)
+* [Walkthrough Video](#Walkthrough-Video)
 * [Installation](#installation)
 * [License](#License)
 * [Contributing](#contributing)
@@ -52,9 +52,9 @@ WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 ```
 
-## 📺 [Mock-Up](#table-of-contents)
+## 📺 [Walkthrough Video](#table-of-contents)
 
-![Image]( )
+[Video](https://drive.google.com/file/d/1Mhz540WFChc_tEHQnd57_0fjHangRQ2x/view?usp=share_link)
 
 ## ⚙️ [Installation](#table-of-contents)
 Use your terminal to clone or download or copy the zip file to a directory of your choice. Then open the file in VS Code or whatever editor you use. In VS Code, open the terminal and navigate to Social Network API in the root directory and you need to start mongoDB Compass.
